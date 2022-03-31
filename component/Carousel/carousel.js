@@ -8,7 +8,7 @@ function Carousel() {
       >
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <p>First Courseel</p>
+            <p>First Coursel</p>
           </div>
           <div class="carousel-item">
             <p>Second Coursel</p>
