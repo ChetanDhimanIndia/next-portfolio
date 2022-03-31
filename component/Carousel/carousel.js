@@ -3,17 +3,17 @@ function Carousel() {
     <div>
       <div
         id="carouselExampleSlidesOnly"
-        class="carousel slide"
+        className="carousel slide"
         data-ride="carousel"
       >
-        <div class="carousel-inner">
-          <div class="carousel-item active">
+        <div className="carousel-inner">
+          <div className="carousel-item active">
             <p>First Coursel</p>
           </div>
-          <div class="carousel-item">
+          <div className="carousel-item">
             <p>Second Coursel</p>
           </div>
-          <div class="carousel-item">
+          <div className="carousel-item">
             <p>Third Coursel</p>
           </div>
         </div>
