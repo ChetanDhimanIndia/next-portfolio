@@ -50,7 +50,7 @@ function Navbar() {
                   Contact Us
                 </a>
               </li>
-              <button type="button" class="btn btn-info">
+              <button type="button" className="btn btn-info">
                 Hire Us
               </button>
             </ul>
